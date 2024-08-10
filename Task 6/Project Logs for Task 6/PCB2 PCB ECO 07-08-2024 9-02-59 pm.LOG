@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=  NewDesignator=R2
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ2_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-1
+Added Net: Name=NetQ1_1
+Added Member To Class: ClassName=Sheet1 Member=Component J2 282836-2
+Added Member To Class: ClassName=Sheet1 Member=Component J3 282836-2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 ERJ-8GEY0R00V
+Added Member To Class: ClassName=Sheet1 Member=Component R3 ERJ-8GEY0R00V
+Added Member To Class: ClassName=Sheet1 Member=Component R4 ERJ-8GEY0R00V
